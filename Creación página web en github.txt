@@ -1,4 +1,0 @@
-1. CREAR UNA RAMA NUEVA --- github-pages --> Para que lo pueda leer e interpretar el github
-2. Settings
-3. Pages
-4. 
